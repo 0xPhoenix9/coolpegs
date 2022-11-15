@@ -1,1 +1,1 @@
-# entrepot-app
+# Cool Peg App
